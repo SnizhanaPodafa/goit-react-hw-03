@@ -1,0 +1,12 @@
+.container {
+  margin: 0 auto;
+  width: 500px;
+  padding: 10px;
+  border-radius: 10px;
+  background-image: url(https://img.freepik.com/premium-photo/marble-ink-abstract-art-from-exquisite-original-painting-abstract-background_31965-43832.jpg);
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
